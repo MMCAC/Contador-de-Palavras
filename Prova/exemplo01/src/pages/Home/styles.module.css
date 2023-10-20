@@ -1,0 +1,24 @@
+.container{
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.son {
+  margin-bottom: 20px;
+  
+}
+
+.son input{
+  border-radius: 10px;
+  border: solid 1px grey;
+  font-family: 'bold';
+  width: 400px;
+}
+
+.son span{
+  font-family: 'regular';
+  display: block;
+  text-align: center;
+}

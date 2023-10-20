@@ -1,0 +1,39 @@
+yarn create react-app exemplo01 --template typescript
+
+------------------------
+
+Dentro do src
+
+
+Criar a pasta assets
+Criar pasta img
+
+Fazer download dos 3 ícones
+- Home;
+- About;
+- Contacts;
+
+--------------------
+
+yarn add react-router-dom
+
+--------------------------
+
+Criando o roteamento de páginas
+1- Criar os componentes de página;
+2- Criar o script de rotas, associando cada rota a um componente de página;
+3- Adicionar as rotas na aplicação
+
+---------------------------
+
+React Hooks -> Tunções do React para nos ajudar a lida com atualizações no estado do componente, atualizações da UI, eventos assíncronos, entre outros
+
+Estado do componente (state) -> "Área do componente onde são mantidos os dados a serem manipulados pelo componente e a serem exibidos na UI"
+
+Data binding (frontend) -> É o processo de enviar dados para a UI ou trazer dados da UI
+
+useState -> Hook utilzado para criar uma nova propriedade no state do componente
+
+useEffect -> Hook utilizado para progamar alguma ação quando houver alteração em uma ou mais propriedades do state do componente
+
+setNumber1(9)
